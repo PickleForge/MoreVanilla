@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "morevanilla:block/example_block" }
+  }
+}
